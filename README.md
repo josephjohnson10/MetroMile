@@ -6,6 +6,12 @@
 
 Built for the **OpenAI Build Week — Codex Nightline Hackathon** on an M2 Mac with React, Vite, Tailwind CSS, and OpenAI's Responses API.
 
+## Visual Interface
+
+| One-Glance Transfer Dashboard | Private Cab-Share Search | Disruption / Crisis Mode |
+| :---: | :---: | :---: |
+| ![One-Glance Transfer](docs/screenshots/01-initial-state-vyttila.png) | ![Private Cab-Share Search](docs/screenshots/03-cab-share-active-timer.png) | ![Crisis Mode](docs/screenshots/05-crisis-mode-activated.png) |
+
 ## The problem
 
 Kochi Metro passengers often arrive at a station without knowing whether a feeder bus is close, autos are actually waiting, or road construction has made the usual last-mile route unreliable. During a major disruption, official updates can lag behind the commuter's immediate need to leave the station.
