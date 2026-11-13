@@ -1,0 +1,13 @@
+{
+  "station": "JLN Stadium",
+  "destination": "CUSAT Campus",
+  "train": { "line": "Blue Line", "status": "On time", "arrival": "Arrived 2 min ago" },
+  "feeder": { "route": "KMRL F04", "name": "CUSAT Feeder", "minutes": 4, "departure": "09:42", "bay": "Exit 2 · Bay C", "occupancy": "Comfortable" },
+  "autos": { "available": 12, "wait": "2–4 min", "yatri": "₹96", "uber": "₹128", "recommendation": "Yatri is ₹32 less with low cancellation risk." },
+  "alert": { "title": "Construction slowdown ahead", "copy": "Seaport–Airport Road is congested near the Phase 2 works. Take the CUSAT feeder for the most reliable arrival.", "impact": "~18 min saved" },
+  "board": [
+    { "route": "F04", "destination": "CUSAT", "time": "4 min", "state": "Boarding" },
+    { "route": "F02", "destination": "Kakkanad", "time": "11 min", "state": "On time" },
+    { "route": "F07", "destination": "Palarivattom", "time": "16 min", "state": "On time" }
+  ]
+}
